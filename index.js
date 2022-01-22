@@ -2,7 +2,7 @@
 const fs = require("fs");
 const util = require("util");
 const inquirer = require("inquirer");
-const generateReadme = require("generateReadme")
+const generateReadme = require("./generateReadME")
 const writeFileAsync = util.promisify(fs.writeFile);
 
 //Prompt the user questions to populate the README.md
@@ -77,7 +77,7 @@ function promptUser(){
         const answers = await promptUser();
         const generateContent = generateReadme(answers);
         // Write new README.md to dist directory
-       await writeFileAsync('./dist/README.md', generateContent);
+       await writeFileAsync("./README.md", generateContent);
         console.log('✔️  Successfully wrote to README.md');
     }   catch(err) {
         console.log(err);
