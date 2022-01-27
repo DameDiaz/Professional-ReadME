@@ -2,8 +2,6 @@
 <h1 align="center">Professional ReadME 👋</h1>
   
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
-## Demo
-<iframe width="560" height="315" src="Screen Recording 2022-01-27 at 12.47.56 PM" frameborder="0" allowfullscreen></iframe>
 ## Description
 🔍  A high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 ## Table of Contents
