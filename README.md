@@ -1,9 +1,9 @@
 
 <h1 align="center">Professional ReadME 👋</h1>
   
-![badge](https://img.shields.io/badge/license-Open-brightgreen)<br />
+![badge](https://img.shields.io/badge/license-Apache-brightgreen)<br />
 ## Description
-🔍 The above gif is a demonstration of how this 'deployed' application works. Created in effort to swiftly generate README files that use a consistant format. This took awhile for me to find all the missing pieces to get something working, it's weird yet awesome how something so seemingly simple took many hours of testing. Please enjoy the generator!
+🔍 a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -13,21 +13,24 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-💾 
+💾 Install through github and make sure the inquirer is installed
 ## Usage
-💻 THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+💻 Open terminal
+Type 'node index.js'
+Answer the prompts that follow
+On success a README.md will be generated.
 ## License
-![badge](https://img.shields.io/badge/license-Open-brightgreen)
+![badge](https://img.shields.io/badge/license-Apache-brightgreen)
 <br />
-This application is covered by the Open license. 
+This application is covered by the Apache license. 
 ## Contributing
 👪 Damian Diaz
 ## Tests
 ✏️ Yes
 ## Questions
-✋ Send me a message<br />
+✋ Contact me through Github<br />
 <br />
-:octocat: Find me on GitHub: [DameDiaz](https://github.com/DameDiaz)<br />
+:octocat: Find me on GitHub: [Damediaz](https://github.com/Damediaz)<br />
 <br />
 ✉️ Email me with any questions: diaz.damian2015@gmail.com<br /><br />
 _This README was generated with ❤️ by [README-generator](https://github.com/jpd61/README-generator) 🔥🔥🔥_
