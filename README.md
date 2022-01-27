@@ -1,9 +1,9 @@
 
-<h1 align="center">d 👋</h1>
+<h1 align="center">Professional ReadME 👋</h1>
   
-![badge](https://img.shields.io/badge/license-Apache-brightgreen)<br />
+![badge](https://img.shields.io/badge/license-Open-brightgreen)<br />
 ## Description
-🔍 d
+🔍 The above gif is a demonstration of how this 'deployed' application works. Created in effort to swiftly generate README files that use a consistant format. This took awhile for me to find all the missing pieces to get something working, it's weird yet awesome how something so seemingly simple took many hours of testing. Please enjoy the generator!
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -13,22 +13,22 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-💾 d
+💾 
 ## Usage
-💻 d
+💻 THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 ## License
-![badge](https://img.shields.io/badge/license-Apache-brightgreen)
+![badge](https://img.shields.io/badge/license-Open-brightgreen)
 <br />
-This application is covered by the Apache license. 
+This application is covered by the Open license. 
 ## Contributing
-👪 
+👪 Damian Diaz
 ## Tests
-✏️ dd
+✏️ Yes
 ## Questions
-✋ <br />
+✋ Send me a message<br />
 <br />
-:octocat: Find me on GitHub: [d](https://github.com/d)<br />
+:octocat: Find me on GitHub: [DameDiaz](https://github.com/DameDiaz)<br />
 <br />
-✉️ Email me with any questions: d<br /><br />
+✉️ Email me with any questions: diaz.damian2015@gmail.com<br /><br />
 _This README was generated with ❤️ by [README-generator](https://github.com/jpd61/README-generator) 🔥🔥🔥_
     
